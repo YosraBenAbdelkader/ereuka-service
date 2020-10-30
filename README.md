@@ -1,4 +1,5 @@
 # ereuka-service 
+with db-service and stock-service 
 
 implémentation of ereuka server and zuul Proxy
 
